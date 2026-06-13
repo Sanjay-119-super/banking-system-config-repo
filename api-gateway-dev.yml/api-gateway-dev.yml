@@ -55,3 +55,5 @@ management:
           - health
           - info
           - prometheus
+
+
